@@ -1,4 +1,3 @@
-{% include_relative mathjax.html %}
 
 <p align="center"> Esta é a página das Disciplinas </p>
 
@@ -8,11 +7,10 @@ Matemática Finita (LM) </h2>
 
 <p align="center"> da FCUL, em 2021/22 </p>
 
-
 Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domínio de <span style="color:#0085A1">conceitos</span>, e <span style="color:#0085A1">resolução de problemas</span>, envolvendo:
 
 - Algoritmo de Euclides (estendido) 
-- Invertibilidade e divisibilidade em $\mathbb{Z}$ e em $\mathbb{Z}_n$
+- Invertibilidade e divisibilidade em Z e em Zn
 - Resolução de equações modulares lineares (incluindo sistemas)
 - Teoremas de Fermat e Euler; a função totiente
 - Criptografia RSA
