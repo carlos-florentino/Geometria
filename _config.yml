@@ -1,0 +1,22 @@
+remote_theme: daattali/beautiful-jekyll
+
+# Name of website
+title: Matemática Discreta / Finita - FCUL'22
+
+# Your name to show in the footer
+author: Carlos Florentino
+
+# Navegador
+navbar-links:
+  Aulas T/P :
+    - Horário: "horarios"
+    - Exercícios e Resumos: "exercicios"
+    - Programa e Bibliografia: "programa"
+  Recursos:
+    - Vídeos: "https://www.youtube.com/c/Matem%C3%A1ticaDiscretaFCUL"
+    - Outras Ligações: "ligacoes"
+  Avaliação  :
+    - Regras de Avaliação: "avaliacao"
+    - Testes e Exames: "testes"
+
+markdown: kramdown
