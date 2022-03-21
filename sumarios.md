@@ -18,8 +18,8 @@
 03.M Divisibilidade, propriedades. Números primos. Algoritmo de Euclides estendido. Identidade de Bézout.<br>
 07.M Princípio de Indução. O teorema fundamental da aritmética.<br>
 10.M Números racionais. Representação de inteiros e racionais em bases.<br>
-14.M O anel dos números modulares $\mathbb{Z}_{m}$. Representação de inteiros e racionais em bases.<br>
-17.M Invertibilidade em $\mathbb{Z}_{m}$. A equação modular linear.<br>
+14.M O anel dos números modulares Zm. Representação de inteiros e racionais em bases.<br>
+17.M Invertibilidade em Zm. A equação modular linear.<br>
 21.M Sistemas de Equações lineares modulares. O teorema Chinês dos restos.<br>
 24.M Função totiente de Euler.<br>
 28.M O teorema de Fermat.<br>
