@@ -10,7 +10,7 @@
 3. O algoritmo de Euclides e identidade de Bézout: Algoritmo de Euclides estendido; resolução da equação de Bézout e variações.
 4. O teorema fundamental da aritmética e aplicações.
 5. O anel dos números modulares: invertibilidade e equações lineares modulares.
-6. Sistemas de equações modulares e o teorema Chinês dos restos. $P \in [-0.5 , 2]$
+6. Sistemas de equações modulares e o teorema Chinês dos restos. $P \in [-0.5 , 2] \matnbb{Z}_n$
 
 ### Sumários das Aulas Teóricas
 
