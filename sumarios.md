@@ -10,7 +10,7 @@
 3. O algoritmo de Euclides e identidade de Bézout: Algoritmo de Euclides estendido; resolução da equação de Bézout e variações.
 4. O teorema fundamental da aritmética e aplicações.
 5. O anel dos números modulares: invertibilidade e equações lineares modulares.
-6. Sistemas de equações modulares e o teorema Chinês dos restos. $P \in [-0.5 , 2] \matnbb{Z}_n$
+6. Sistemas de equações modulares e o teorema Chinês dos restos.
 
 ### Sumários das Aulas Teóricas
 
@@ -20,8 +20,8 @@
 03.M Divisibilidade, propriedades. Números primos. Algoritmo de Euclides estendido. Identidade de Bézout.<br>
 07.M Princípio de Indução. O teorema fundamental da aritmética.<br>
 10.M Números racionais. Representação de inteiros e racionais em bases.<br>
-14.M O anel dos números modulares Zm. Representação de inteiros e racionais em bases.<br>
-17.M Invertibilidade em Zm. A equação modular linear.<br>
+14.M O anel dos números modulares $\mathbb{Z}_m$. Representação de inteiros e racionais em bases.<br>
+17.M Invertibilidade em $\mathbb{Z}_m$. A equação modular linear.<br>
 21.M Sistemas de Equações lineares modulares. O teorema Chinês dos restos.<br>
 24.M Função totiente de Euler.<br>
 28.M O teorema de Fermat.<br>
