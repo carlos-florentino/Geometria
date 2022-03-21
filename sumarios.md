@@ -8,7 +8,9 @@
 1. Revisões de Conjuntos: Operações entre Conjuntos. Cardinal, Funções, e Relações de Equivalência.  
 2. Revisões de Aritmética: O algoritmo da divisão, divisores e múltiplos, o máximo divisor comum e o mínimo múltiplo comum.
 3. O algoritmo de Euclides e identidade de Bézout: Algoritmo de Euclides estendido; resolução da equação de Bézout e variações.
-4. O teorema fundamental da aritmética 
+4. O teorema fundamental da aritmética e aplicações.
+5. O anel dos números modulares: invertibilidade e equações lineares modulares.
+6. Sistemas de equações modulares e o teorema Chinês dos restos. $P \in [-0.5 , 2]$
 
 ### Sumários das Aulas Teóricas
 
