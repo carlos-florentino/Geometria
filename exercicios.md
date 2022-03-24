@@ -8,6 +8,8 @@
 - [Ficha 1](http://cfloren.wdfiles.com/local--files/discreta/Problemas1.pdf)
 - [Ficha 2](http://cfloren.wdfiles.com/local--files/discreta/Problemas2.pdf)
 - [Ficha 3](http://cfloren.wdfiles.com/local--files/discreta/Problemas3.pdf)
+- [Ficha 4](http://cfloren.wdfiles.com/local--files/discreta/Problemas4.pdf)
+- [Ficha 5](http://cfloren.wdfiles.com/local--files/discreta/Problemas5.pdf)
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/ProbRes1.pdf)
