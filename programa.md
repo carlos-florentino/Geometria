@@ -12,13 +12,13 @@
 - <span style="color:#0085A1">**Bibliografia Essencial**</span>
   - C. Florentino, [Fundamentos de Matemática Discreta](http://cfloren.wdfiles.com/local--files/discreta/FMD-2022.pdf), 2021.
   - E. Lehman, F. T. Leighton and A. R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), 2018.
-  - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
+  - K. Rosen, _Discrete Mathematics and Applications_, 8th Ed., Mc Graw Hill, 2018.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
   - N. L. Biggs, _Discrete Mathematics_, Oxford UP, 2003.
   - O. Byer, D. Smeltzer & K. Wantz, _Journey into Discrete Mathematics_, AMS/MAA Textbooks, 2018.
   - R. Graham, D. Knuth, and O. Patashnik, _Concrete Mathematics: A Foundation for Computer Science_ (2nd Edition), 1994
-  - K. Rosen, _Discrete Mathematics and Applications_, 8th Ed., Mc Graw Hill, 2018.
+  - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
   - R. Merris, _Combinatorics_ (2nd Edition), Wiley-Interscience, 2003.
   - R. Stanley, _Enumerative Combinatorics: Volume 1_, 2nd Ed. Cambridge U. P., CSAM 49, 2011.
   - J. Truss, _Discrete Mathematics for computer scientists_, Addison Wesley, 1999.
