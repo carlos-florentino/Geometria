@@ -9,6 +9,6 @@
 
 #### Enunciados de Testes/Exames de anos anteriores
 
-(a disponibilizar)
+- [Teste A1 (15/5/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA1.pdf) - [Resolução possível](http://cfloren.wdfiles.com/local--files/discreta/TA1-21-Res.pdf)
 
 O peso das provas escritas na nota final, está definido nas [Regras de Avaliação](avaliacao.md)
