@@ -18,8 +18,8 @@ Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domíni
 - Criptografia RSA
 - Números binomiais e multinomiais
 - Princípios gerais de contagem
-- Funções geradoras e problemas de recorrência linear
 - Problemas de contagem com simetria
+- Funções geradoras e problemas de recorrência linear
 - Grafos e as suas matrizes; grafos e poliedros
 - Algoritmos com árvores e caminhos
 - Grafos dirigidos, redes e algoritmo PageRank
