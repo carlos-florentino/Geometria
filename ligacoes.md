@@ -8,7 +8,7 @@
 
 #### Combinatória
 
-- [Tabela das distribuições/funções](http://cfloren.wdfiles.com/local--files/discreta/Tabela12.png)
+- [Tabela das distribuições/funções](http://cfloren.wdfiles.com/local--files/discreta/Tabela-Distribuicoes.png)
 
 #### Grafos
 
