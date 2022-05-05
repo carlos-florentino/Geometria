@@ -3,10 +3,10 @@
 
 ### Fichas de Exercícios para as aulas TP
 
-#### Parte 1: Números
+#### Parte A: Números
 - [Ficha 0](http://cfloren.wdfiles.com/local--files/discreta/Problemas0.pdf), &nbsp; [Ficha 1](http://cfloren.wdfiles.com/local--files/discreta/Problemas1.pdf), &nbsp; [Ficha 2](http://cfloren.wdfiles.com/local--files/discreta/Problemas2.pdf), &nbsp; [Ficha 3](http://cfloren.wdfiles.com/local--files/discreta/Problemas3.pdf), &nbsp; [Ficha 4](http://cfloren.wdfiles.com/local--files/discreta/Problemas4.pdf), &nbsp; [Ficha 5](http://cfloren.wdfiles.com/local--files/discreta/Problemas5.pdf)
 
-#### Parte 2: Combinatória
+#### Parte B: Combinatória e Grafos
 - [Ficha 6](http://cfloren.wdfiles.com/local--files/discreta/Problemas6.pdf)
 - [Ficha 7](http://cfloren.wdfiles.com/local--files/discreta/Problemas7.pdf)
 
