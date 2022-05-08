@@ -17,6 +17,7 @@
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
   - N. L. Biggs, _Discrete Mathematics_, Oxford UP, 2003.
   - O. Byer, D. Smeltzer & K. Wantz, _Journey into Discrete Mathematics_, AMS/MAA Textbooks, 2018.
+  - F. Ferreira e C. André, _Matemática Finita_, Universidade Aberta, 2000.
   - R. Graham, D. Knuth, and O. Patashnik, _Concrete Mathematics: A Foundation for Computer Science_ (2nd Edition), 1994
   - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
   - R. Merris, _Combinatorics_ (2nd Edition), Wiley-Interscience, 2003.
