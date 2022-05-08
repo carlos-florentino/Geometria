@@ -9,6 +9,8 @@
 #### Parte B: Combinatória e Grafos
 - [Ficha 6](http://cfloren.wdfiles.com/local--files/discreta/Problemas6.pdf)
 - [Ficha 7](http://cfloren.wdfiles.com/local--files/discreta/Problemas7.pdf)
+- [Ficha 8](http://cfloren.wdfiles.com/local--files/discreta/Problemas8.pdf)
+
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/ProbRes1.pdf), &nbsp; [Resolvidos 2](http://cfloren.wdfiles.com/local--files/discreta/ProbRes2.pdf), &nbsp; [Resolvidos 3](http://cfloren.wdfiles.com/local--files/discreta/ProbRes3.pdf), &nbsp; [Resolvidos 4](http://cfloren.wdfiles.com/local--files/discreta/ProbRes4.pdf)
