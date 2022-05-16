@@ -25,3 +25,4 @@
 ### Resumos da Matéria
 - [Slides da 1a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITN.pdf)
 - [Slides da 2a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf)
+- [Slides da 3a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf)
