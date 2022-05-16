@@ -23,6 +23,6 @@
 <!-- ### Exercícios Adicionais -->
 
 ### Resumos da Matéria
-- [Slides da 1a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITN.pdf)
-- [Slides da 2a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf)
-- [Slides da 3a parte](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf)
+- [Slides da Parte A](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITN.pdf)
+- [Slides da Parte B1](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf)
+- [Slides da Parte B2](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf)
