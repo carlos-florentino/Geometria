@@ -32,6 +32,7 @@ E = \max\left\{ TA + TB,\ E1, \ E2 \right\}
 $$
 
 sendo TA e TB, as notas de cada teste (entre 0 e 10), e $P \in [-0.5 , 2]$ é a nota da avaliação contínua, que reflete a participação e resolução dos exercícios nas aulas práticas, bem como problemas feitos em casa, e indicados pelo professor semanalmente.
+Cada aluno pode fazer duas vezes o Teste A e duas vezes o Teste B: conta a melhor nota de cada.
 
 **Nota mínima:** Para os alunos cuja avaliação use a nota dos Testes a nota mínima para passagem é 3.5 em cada Teste (TA e TB). 
 
