@@ -19,6 +19,7 @@
 - [Resolvidos 5](http://cfloren.wdfiles.com/local--files/discreta/ProbRes5.pdf)
 - [Resolvidos 6](http://cfloren.wdfiles.com/local--files/discreta/ProbRes6.pdf)
 - [Resolvidos 7](http://cfloren.wdfiles.com/local--files/discreta/ProbRes7.pdf)
+- [Resolvidos 8](http://cfloren.wdfiles.com/local--files/discreta/ProbRes8.pdf)
 
 <!-- ### Exercícios Adicionais -->
 
