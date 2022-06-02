@@ -14,8 +14,5 @@
 - [Teste A2 (2/7/2020)](http://cfloren.wdfiles.com/local--files/discreta/TA2-20.pdf) - [Soluções](http://cfloren.wdfiles.com/local--files/discreta/TA2-20-sol.pdf)
 - [Teste B1 (15/5/2021)](http://cfloren.wdfiles.com/local--files/discreta/TB1.pdf)
 - [Teste B2 (1/6/2021)](http://cfloren.wdfiles.com/local--files/discreta/TB2.pdf)
- 
-Horários de atendimento: 19/4 às 16h30 por Zoom indicado no Moodle (C. Florentino) <br>
-                         20/4 das 10h às 11h, sala 6.1.27
 
 O peso das provas escritas na nota final, está definido nas [Regras de Avaliação](avaliacao.md)
