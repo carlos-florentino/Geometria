@@ -3,7 +3,7 @@
 
 #### Calendário de Provas Escritas 2022
 - Teste A (Aritmética): 20 de Abril - [Enunciado e Resolução](http://cfloren.wdfiles.com/local--files/discreta/TA0-c-sol.pdf) (versão (c))
-- 1a Época: 11 de Junho (Sábado)
+- 1a Época: 11 de Junho (Sábado) - [TA1](http://cfloren.wdfiles.com/local--files/discreta/TA1a-22.pdf) (versão (a)) [Soluções](http://cfloren.wdfiles.com/local--files/discreta/TA1-22sol.pdf); &nbsp; &nbsp; [TB1](http://cfloren.wdfiles.com/local--files/discreta/TB1a-22.pdf) (versão (a)) [Resolução](http://cfloren.wdfiles.com/local--files/discreta/TB1-22-Res.pdf); 
 - 2a Época: 29 de Junho (4a feira)
 - Época Especial: 20 de Julho (4a feira)
 
