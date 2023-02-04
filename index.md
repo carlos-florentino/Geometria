@@ -6,7 +6,7 @@
 <p> e </p>
 Matemática Finita (LM) </h2>
 
-<p align="center"> da FCUL, em 2021/22 </p>
+<p align="center"> da FCUL, em 2022/23 </p>
 
 
 Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domínio de <span style="color:#0085A1">conceitos</span>, e <span style="color:#0085A1">resolução de problemas</span>, envolvendo:
@@ -17,10 +17,10 @@ Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domíni
 - Teoremas de Fermat e Euler; a função totiente
 - Criptografia RSA
 - Números binomiais e multinomiais
+- Funções geradoras e problemas de recorrência linear
 - Princípios gerais de contagem
 - Problemas de contagem com simetria
-- Funções geradoras e problemas de recorrência linear
-- Grafos e as suas matrizes; grafos e poliedros
+- Grafos e as suas matrizes; grafos planares e dualidade
 - Algoritmos com árvores e caminhos
 - Grafos dirigidos, redes e algoritmo PageRank
 
