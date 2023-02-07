@@ -6,11 +6,11 @@
 
 ### Aulas Práticas
 
-- TP21 -- Segunda, 14:00 - 15:30 (1.3.33A) &ensp; e &ensp; Quinta, 17:00 - 18:30 (1.3.20) (LEI)
-- TP22 -- Segunda, 16:30 - 18:00 (6.2.50) &ensp; e &ensp; Quinta, 13:30 - 15:00 (6.2.52) (LEI)
-- TP23 -- Terça, 13:30 - 15:00 (3.1.10) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.46) (LEI)
-- TP24 -- Terça, 13:30 - 15:00 (6.2.50) &ensp; e &ensp; Sexta, 13:30 - 15:00 (6.2.50) (LEI e LM)
-- TP25 -- Terça, 10:30 - 12:00 (1.3.15) &ensp; e &ensp; Quinta, 10:00 - 11:30 (1.3.14) (LM)
+- TP21 -- Segunda, 14:00 - 15:30 (1.3.33A)  +  Quinta, 17:00 - 18:30 (1.3.20) (LEI)
+- TP22 -- Segunda, 16:30 - 18:00 (6.2.50)  +  Quinta, 13:30 - 15:00 (6.2.52) (LEI)
+- TP23 -- Terça, 13:30 - 15:00 (3.1.10)  +  Sexta, 13:30 - 15:00 (6.2.46) (LEI)
+- TP24 -- Terça, 13:30 - 15:00 (6.2.50)  +  Sexta, 13:30 - 15:00 (6.2.50) (LEI e LM)
+- TP25 -- Terça, 10:30 - 12:00 (1.3.15)  +  Quinta, 10:00 - 11:30 (1.3.14) (LM)
 
 ### Horários de Atendimento
 
