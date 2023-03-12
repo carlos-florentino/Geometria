@@ -2,8 +2,8 @@
 <h2 align="center"> Ligações Úteis </h2>  
 
 #### Aritmética 
-- [Identidade de Bézout](https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/euclid.html)
-- [Cálculo de potências](https://www.mtholyoke.edu/courses/quenell/s2003/ma139/js/powermod.html)
+- [Identidade de Bézout](https://mathtools.lagrida.com/arithmetic/bezout_coefficients.html)
+- [Cálculo de potências](https://www.emathcalculator.com/en/calculators/algebra/powerMod.php)
 - [Algoritmo RSA](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
 
 #### Combinatória
