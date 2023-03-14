@@ -14,8 +14,7 @@
 
 
 ### Exercícios Resolvidos / com Soluções
-- [Resolvidos 0](http://cfloren.wdfiles.com/local--files/discreta/ProbRes0.pdf) 
-- [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/ProbRes1.pdf)
+- [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/Resolvidos1.pdf) 
 
 <!-- ### Exercícios Adicionais -->
 
