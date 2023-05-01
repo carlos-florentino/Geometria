@@ -2,7 +2,7 @@
 <h2 align="center"> Testes e Exames </h2>  
 
 #### Calendário de Provas Escritas 2023
-- Teste A (Aritmética): 5a feira, 13 de Abril, Anfiteatro C3, 18:30 - 20:00
+- Teste A0 [TA0 - 13/4/2023](http://cfloren.wdfiles.com/local--files/discreta/TA0-23.pdf)
 - 1a Época: 5 de Junho (2a feira)
 - 2a Época: 29 de Junho (5a feira)
 - Época Especial: 18 de Julho (3a feira)
