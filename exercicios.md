@@ -10,6 +10,8 @@
 - [Ficha 6](http://cfloren.wdfiles.com/local--files/discreta/Problemas6.pdf)
 - [Ficha 7](http://cfloren.wdfiles.com/local--files/discreta/Problemas7.pdf)
 - [Ficha 8](http://cfloren.wdfiles.com/local--files/discreta/Problemas8.pdf)
+- [Ficha 9](http://cfloren.wdfiles.com/local--files/discreta/Problemas9.pdf)
+- [Ficha 10](http://cfloren.wdfiles.com/local--files/discreta/Problemas10.pdf)
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/Resolvidos1.pdf) 
@@ -19,5 +21,5 @@
 
 ### Resumos da Matéria
 - [Slides da Parte A](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITN.pdf) (Introdução à Teoria dos Números)
-- [Slides da Parte B](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf) (Introdução à Combinatória)
-- [Slides da Parte C](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf) (Introdução à Teoria dos Grafos)
+- [Slides da Parte B1](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf) (Introdução à Combinatória)
+- [Slides da Parte B2](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf) (Introdução à Teoria dos Grafos)
