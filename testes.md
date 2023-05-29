@@ -14,5 +14,9 @@
 - [Teste A1 (15/5/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA1-21.pdf) - [Resolução possível](http://cfloren.wdfiles.com/local--files/discreta/TA1-21-Res.pdf)
 - [Teste A2 (1/6/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA2-21.pdf) 
 - [Teste A2 (2/7/2020)](http://cfloren.wdfiles.com/local--files/discreta/TA2-20.pdf) 
+- [Teste B1 (11/6/2022)](http://cfloren.wdfiles.com/local--files/discreta/TB1a-22.pdf) - [Resolução possível](http://cfloren.wdfiles.com/local--files/discreta/TB1-22-Res.pdf)
+- [TB1 (15/5/2021)](http://cfloren.wdfiles.com/local--files/discreta/TB1.pdf) 
+- [TB2 - 1/6/2021](http://cfloren.wdfiles.com/local--files/discreta/TB2.pdf) (versão (a)) [Soluções](http://cfloren.wdfiles.com/local--files/discreta/TB2-21sol.pdf); &nbsp; &nbsp; 
+- [Teste B3 (22/7/2021)](http://cfloren.wdfiles.com/local--files/discreta/TB3.pdf) 
 
 O peso das provas escritas na nota final, está definido nas [Regras de Avaliação](avaliacao.md)
