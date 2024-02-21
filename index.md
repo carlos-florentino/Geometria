@@ -4,7 +4,7 @@
 
 <h2 align="center"> Matemática Discreta (LEI e LM) </h2>
 
-<p align="center"> da FCUL, 2022/23 </p>
+<p align="center"> da FCUL, 2023/24 </p>
 
 
 Os <span style="color:#0085A1">objectivos</span> desta disciplina são o domínio de <span style="color:#0085A1">conceitos</span>, e <span style="color:#0085A1">resolução de problemas</span>, envolvendo:
