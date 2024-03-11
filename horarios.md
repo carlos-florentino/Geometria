@@ -14,7 +14,9 @@
 
 ### Horários de Atendimento
 
-A serem definidos
+Consulte a Página Moodle da disciplina: https://moodle.ciencias.ulisboa.pt/course/view.php?id=5281 
+(acesso FCUL)
 
-<!-- Consulte o moodle da disciplina (https://moodle.ciencias.ulisboa.pt/course/view.php?id=4453) (acesso FCUL)
+<!--
+(https://moodle.ciencias.ulisboa.pt/course/view.php?id=4453) (acesso FCUL)
 Consulte a [página do Moodle](https://moodle.ciencias.ulisboa.pt/course/view.php?id=3777) (acesso FCUL) -->
