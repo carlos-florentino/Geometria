@@ -13,8 +13,8 @@
 - [TA1 - 5/6/2023](http://cfloren.wdfiles.com/local--files/discreta/TA1.23a.pdf)
 - [TA0 - 20/4/2022](http://cfloren.wdfiles.com/local--files/discreta/TA0-c-sol.pdf) (c/ Resolução possível)
 - [TA1 - 11/6/2022](http://cfloren.wdfiles.com/local--files/discreta/TA1a-22.pdf) (versão (a)) [Soluções](http://cfloren.wdfiles.com/local--files/discreta/TA1-22sol.pdf); &nbsp; &nbsp; 
+- [Teste A2 (1/6/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA2-21.pdf)
 - [Teste A1 (15/5/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA1-21.pdf) - [Resolução possível](http://cfloren.wdfiles.com/local--files/discreta/TA1-21-Res.pdf)
-- [Teste A2 (1/6/2021)](http://cfloren.wdfiles.com/local--files/discreta/TA2-21.pdf) 
 
 - [Teste B1 (15/6/2023)](http://cfloren.wdfiles.com/local--files/discreta/TB1a23.pdf) 
 - [Teste B1 (11/6/2022)](http://cfloren.wdfiles.com/local--files/discreta/TB1a-22.pdf) - [Resolução possível](http://cfloren.wdfiles.com/local--files/discreta/TB1-22-Res.pdf)
