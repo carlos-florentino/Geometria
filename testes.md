@@ -2,7 +2,7 @@
 <h2 align="center"> Testes e Exames </h2>  
 
 #### Calendário de Provas Escritas 2024
-- Teste A0 (Aritmética Modular): 10 de Abril (4a feira), 17h - 18h30 
+- Teste A0 (Aritmética Modular), 10/4/24 - [versão (a)](http://cfloren.wdfiles.com/local--files/discreta/TA0-23.pdf) , [versão (c)](http://cfloren.wdfiles.com/local--files/discreta/TA0-23.pdf)
 - 1a Época: 14 de Junho (6a feira) 
 - 2a Época: 3 de Julho (4a feira)
 - Época Especial: 22 de Julho (2a feira)
