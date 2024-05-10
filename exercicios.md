@@ -13,6 +13,7 @@
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/Resolvidos1.pdf) 
+- [Resolvidos 2](http://cfloren.wdfiles.com/local--files/discreta/Resolvidos2.pdf) 
 
 <!-- ### Exercícios Adicionais -->
 
