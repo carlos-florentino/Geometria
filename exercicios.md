@@ -10,6 +10,7 @@
 - [Ficha 6](http://cfloren.wdfiles.com/local--files/discreta/Problemas6.pdf)
 - [Ficha 7](http://cfloren.wdfiles.com/local--files/discreta/Problemas7.pdf)
 - [Ficha 8](http://cfloren.wdfiles.com/local--files/discreta/Problemas8.pdf)
+- [Ficha 9](http://cfloren.wdfiles.com/local--files/discreta/Problemas9.pdf)
 
 ### Exercícios Resolvidos / com Soluções
 - [Resolvidos 1](http://cfloren.wdfiles.com/local--files/discreta/Resolvidos1.pdf) 
