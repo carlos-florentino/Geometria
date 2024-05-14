@@ -21,4 +21,5 @@
 ### Resumos da Matéria
 - [Slides da Parte A](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITN.pdf) (Introdução à Teoria dos Números)
 - [Slides da Parte B1](http://cfloren.wdfiles.com/local--files/discreta/Slides-ICE.pdf) (Introdução à Combinatória)
+- [Slides da Parte B2](http://cfloren.wdfiles.com/local--files/discreta/Slides-ITG.pdf) (Introdução à Teoria dos Grafos)
 
