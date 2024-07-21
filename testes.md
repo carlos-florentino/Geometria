@@ -5,7 +5,7 @@
 - Teste A0 (Aritmética Modular), 10/4/24 - [versão (a)](http://cfloren.wdfiles.com/local--files/discreta/TA0a24.pdf) , [versão (c)](http://cfloren.wdfiles.com/local--files/discreta/TA0c24.pdf)
 - 1a Época: 14 de Junho [Teste A1](http://cfloren.wdfiles.com/local--files/discreta/TA1a24.pdf) , [Teste B1](http://cfloren.wdfiles.com/local--files/discreta/TB1a24.pdf)
 - 2a Época: 3 de Julho (4a feira às 16:30, sala 3.2.14)
-- Época Especial: 22 de Julho (2a feira)
+- Época Especial: 22 de Julho (2a feira), 16:30 - 19:30, Sala 6.2.45
 
 #### Enunciados de Testes/Exames de anos anteriores
 
