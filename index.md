@@ -2,7 +2,7 @@
 
 <p align="center"> Esta é a página da Disciplina </p>
 
-<h2 align="center"> Matemática Discreta (LEI e LM) </h2>
+<h2 align="center"> Geometria 2 (LM, LMA, etc) </h2>
 
 <p align="center"> da FCUL, 2023/24 </p>
 
