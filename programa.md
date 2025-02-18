@@ -3,9 +3,8 @@
 <h2 align="center"> Programa Resumido </h2>
 <br>
   
-1. <span style="color:#0085A1">**Números e Códigos**</span>: O algoritmo de <span style="color:blue">Euclides</span>, divisibilidade. Números primos e teorema fundamental da Aritmética. Equações modulares e <span style="color:blue">congruências</span>; invertibilidade. O teorema Chinês dos restos. O pequeno teorema de Fermat; a função totiente de <span style="color:blue">Euler</span>. Criptografia de chave pública - o <span style="color:blue">algoritmo RSA</span>. 
-2. <span style="color:#0085A1">**Funções e Contagens**</span>: O Triângulo de <span style="color:blue">Pascal</span> e o binómio de Newwton; números multinomiais. Problemas de <span style="color:blue">recorrência linear</span> e funções <span style="color:blue">geradoras</span>. Os princípios básicos de contagem; conjuntos, funções e <span style="color:blue">sequências</span>. Princípio de <span style="color:blue">Inclusão-Exclusão</span>; distribuições em caixas. Acções de grupos finitos e contagens com <span style="color:blue">simetria</span>.
-3. <span style="color:#0085A1">**Grafos e Redes**</span>: <span style="color:blue">Grafos e matrizes</span>. Fórmula de Euler, grafos planares e poliedros; árvores; <span style="color:blue">caminhos e passeios</span>. Grafos dirigidos e o algoritmo <span style="color:blue">PageRank</span>. 
+1. <span style="color:#0085A1">**As 3 Geometrias Clássicas**</span>
+2. <span style="color:#0085A1">**Curvas Algébricas**</span> 
 
 <h3 align="center"> Bibliografia </h3>
 
@@ -14,6 +13,7 @@
   - John Roe, Elementary Geometry, Oxford Science Publications, Clarendon Press, 1993.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
+  - A. Nerode & N. Greenberg, Algebraic Curves and Riemann Surfaces for Undergraduates, The Theory of the Donut, Springer-Verlag, 2022.  
   - J. N. Cederberg, A course in Modern Geometries, UTM, Springer, 2001.
   - O. Neto, Tópicos de Geometria, Universidade Aberta, 1999.
   - E. Rees, Notes on Geometry, Universitext, Springer-Verlag, 2005.
