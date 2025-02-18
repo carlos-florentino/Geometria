@@ -10,19 +10,15 @@
 <h3 align="center"> Bibliografia </h3>
 
 - <span style="color:#0085A1">**Bibliografia Essencial**</span>
-  - C. Florentino, [Fundamentos de Matemática Discreta](http://cfloren.wdfiles.com/local--files/discreta/FMD-2022.pdf), 2021.
-  - E. Lehman, F. T. Leighton and A. R. Meyer, [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf), 2018.
-  - K. Rosen, _Discrete Mathematics and Applications_, 8th Ed., Mc Graw Hill, 2018.
+  - C. Florentino, [Notas de Geometria](http://cfloren.wdfiles.com/local--files/livros/Geo.pdf), 2018.
+  - John Roe, Elementary Geometry, Oxford Science Publications, Clarendon Press, 1993.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
-  - N. L. Biggs, _Discrete Mathematics_, Oxford UP, 2003.
-  - O. Byer, D. Smeltzer & K. Wantz, _Journey into Discrete Mathematics_, AMS/MAA Textbooks, 2018.
-  - F. Ferreira e C. André, _Matemática Finita_, Universidade Aberta, 2000.
-  - R. Graham, D. Knuth, and O. Patashnik, _Concrete Mathematics: A Foundation for Computer Science_ (2nd Edition), 1994
-  - O. Levin, [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf), 2020.
-  - R. Merris, _Combinatorics_ (2nd Edition), Wiley-Interscience, 2003.
-  - R. Stanley, _Enumerative Combinatorics: Volume 1_, 2nd Ed. Cambridge U. P., CSAM 49, 2011.
-  - J. Truss, _Discrete Mathematics for computer scientists_, Addison Wesley, 1999.
+  - J. N. Cederberg, A course in Modern Geometries, UTM, Springer, 2001.
+  - O. Neto, Tópicos de Geometria, Universidade Aberta, 1999.
+  - E. Rees, Notes on Geometry, Universitext, Springer-Verlag, 2005.
+  - J. Stillwell, The Four Pillars of Geometry, Springer-Verlag UTM, 2005.
+  - J. Stillwell, Geometry of surfaces, Universitext, Springer, 1995.
 
 ### Programa Detalhado
 
