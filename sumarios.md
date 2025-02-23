@@ -5,4 +5,7 @@
 
 ### Parte 1 - Geometrias Clássicas
 
-...
+- Revisão de Geometria Eulideana / Cartesiana no plano (_rectas, circunferências, distância, produto interno_)
+- Revisão de Isometrias no plano (_rotações, translações, reflexões, isometrias lineares, os grupos O(2) e SO(2)_)
+- Pontos fixos; Representação complexa das isometrias
+- Cónicas no plano e sua classificação 
