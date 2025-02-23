@@ -8,7 +8,7 @@
 
 ### Horários de Atendimento
 
-Será indicado em breve
+- Segunda, 11:30 - 12:30 e Quinta, 16:00 - 17:00 (gabinete 6.2.10) 
 
 <!--
 (https://moodle.ciencias.ulisboa.pt/course/view.php?id=4453) (acesso FCUL)
