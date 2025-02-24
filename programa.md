@@ -9,7 +9,7 @@
 <h3 align="center"> Bibliografia </h3>
 
 - <span style="color:#0085A1">**Bibliografia Essencial**</span>
-  - C. Florentino, [Notas de Geometria](http://cfloren.wdfiles.com/local--files/livros/Geo.pdf), 2018.
+  - C. Florentino, [Notas de Geometria](http://cfloren.wdfiles.com/local--files/ensino/Geometria.2025.pdf) (Ainda só tem Capítulo 1), 2025.
   - John Roe, Elementary Geometry, Oxford Science Publications, Clarendon Press, 1993.
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
