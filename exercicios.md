@@ -13,4 +13,4 @@
 <!-- ### Exercícios Adicionais -->
 
 ### Resumos da Matéria
-- [Notas de Geometria](http://cfloren.wdfiles.com/local--files/livros/Geo.pdf)
+- [Notas de Geometria](http://cfloren.wdfiles.com/local--files/ensino/Geometria-2025.pdf)
