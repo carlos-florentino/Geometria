@@ -14,6 +14,7 @@
 
 - <span style="color:#0085A1">**Bibliografia Adicional**</span>
   - A. Nerode & N. Greenberg, Algebraic Curves and Riemann Surfaces for Undergraduates, The Theory of the Donut, Springer-Verlag, 2022.  
+  - C. Florentino, [Notas de Geometria](http://cfloren.wdfiles.com/local--files/livros/Geo.pdf) (Versão antiga), 2018.
   - J. N. Cederberg, A course in Modern Geometries, UTM, Springer, 2001.
   - O. Neto, Tópicos de Geometria, Universidade Aberta, 1999.
   - E. Rees, Notes on Geometry, Universitext, Springer-Verlag, 2005.
