@@ -2,7 +2,7 @@
 
 ### Aulas Teóricas e Práticas
 
-- Terça, 15:30 - 17:30,  SALA 6.2.44
+- Terça, 15:00 - 17:00,  SALA 6.2.44
 - Quarta, 16:30 - 18:00, SALA 6.2.50
 - Quinta, 13:30 - 15:00, SALA 6.2.45
 
