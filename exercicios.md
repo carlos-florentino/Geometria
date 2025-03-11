@@ -11,7 +11,7 @@
 
 ### Exercícios Resolvidos / com Soluções
 
-- (a incluir em breve) 
+- (a incluir brevemente) 
 <!-- ### Exercícios Adicionais -->
 
 ### Resumos da Matéria
