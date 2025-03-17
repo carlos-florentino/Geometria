@@ -11,7 +11,7 @@
 
 ### Exercícios Resolvidos / com Soluções
 
-- (a incluir brevemente) 
+- [Resolvidos 1](http://cfloren.wdfiles.com/local--files/ensino/Resolvidos1.pdf) 
 <!-- ### Exercícios Adicionais -->
 
 ### Resumos da Matéria
