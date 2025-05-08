@@ -9,7 +9,9 @@
 - [Ficha 3](http://cfloren.wdfiles.com/local--files/ensino/Ficha3.pdf) (A entregar na aula de dia 2/4)
 - [Ficha 4](http://cfloren.wdfiles.com/local--files/ensino/Ficha4.pdf) (A entregar na aula de dia 30/4)
 
-#### Parte B: Curvas algébricas
+#### Parte B: Curvas no Plano
+- [Ficha 5](http://cfloren.wdfiles.com/local--files/ensino/Ficha5.pdf) (A entregar na aula de dia 13/5)
+
 
 ### Exercícios Resolvidos / com Soluções
 
