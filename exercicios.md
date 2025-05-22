@@ -11,6 +11,7 @@
 
 #### Parte B: Curvas no Plano
 - [Ficha 5](http://cfloren.wdfiles.com/local--files/ensino/Ficha5.pdf) (A entregar na aula de dia 13/5)
+- [Ficha 6](http://cfloren.wdfiles.com/local--files/ensino/Ficha6.pdf) (A entregar na aula de dia 28/5)
 
 
 ### Exercícios Resolvidos / com Soluções
