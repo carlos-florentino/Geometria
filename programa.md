@@ -21,7 +21,8 @@
   - E. Rees, Notes on Geometry, Universitext, Springer-Verlag, 2005.
   - J. Stillwell, The Four Pillars of Geometry, Springer-Verlag UTM, 2005.
   - J. Stillwell, Geometry of surfaces, Universitext, Springer, 1995.
-  - W. Fulton, [Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf), 1969 (verdadeiro clássico, finalmente acessível). 
+  - W. Fulton, [Algebraic Curves](https://dept.math.lsa.umich.edu/~wfulton/CurveBook.pdf), 1969 (verdadeiro clássico, finalmente acessível).
+  - C. Gibson, Elementary Geometry of Algebraic Curves, Cambridge U. P, 1998.
 
 ### Programa Detalhado
 
